@@ -21,7 +21,6 @@ students, courses, trainers, batches, enrollments, and payment records.
 
 ## Technologies Used
 - MySQL
-- SQL
 
 ## How to Use
 1. Create a database in MySQL
