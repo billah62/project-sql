@@ -27,5 +27,6 @@ students, courses, trainers, batches, enrollments, and payment records.
 2. Import the provided `.sql` file
 3. Run queries to manage and analyze training center data
 
-## Author
-Billah
+## SQL Project Run
+
+git clone https://github.com/billah62/TrainingCenterManagementSystem.git
